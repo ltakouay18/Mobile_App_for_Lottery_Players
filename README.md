@@ -1,2 +1,13 @@
 # Mobile_App_for_Lottery_Players
-Project: Mobile App Probability Function for Lottery Players
+## Data Information
+
+The original 6/49 Canadian Lottery historical winning datasets can be accessed at this [link] (https://www.kaggle.com/datasets/datascienceai/lottery-dataset)
+This project will only utilize information from the following columns
+* NUMBER DRAWN 1
+* NUMBER DRAWN 2
+* NUMBER DRAWN 3
+* NUMBER DRAWN 4
+* NUMBER DRAWN 5
+* NUMBER DRAWN 6
+
+
